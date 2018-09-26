@@ -9,8 +9,12 @@ XCode Download: https://developer.apple.com/xcode/
 Android Studio Download: https://developer.android.com/studio/
 <br /> <br /> <br />
 
+## Table of Contents:
+### [Week 1](#Week-1)
+### [Week 2](#Week-2)
 
-## Week 1:
+
+## Week 1
 
 #### iOS Track: 
 [Week 1 iOS Tutorial](www.makeschool.com/academy) <br /> 
@@ -34,7 +38,7 @@ Android Studio Download: https://developer.android.com/studio/
   
   <br /> <br /> <br />
 
-## Week 2:
+## Week 2
 
 #### iOS Track: 
 [Week 2 iOS Tutorial](www.makeschool.com/academy) <br /> 
