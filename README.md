@@ -19,7 +19,7 @@ Android Studio Download: https://developer.android.com/studio/
 ### [Week 2](#week-2-1)
 * Recap of Week 2:
 	* iOS + Android: Build a simple tip calculator
-	* Backend: 
+	* Backend: Various HTTP methods
 <br /> <br /> <br /> <br /> <br />
 
 
@@ -64,7 +64,7 @@ Android Studio Download: https://developer.android.com/studio/
   - [https://developer.android.com/](https://developer.android.com/)
 
 #### Backend Track:
-[Week 2 Backend Tutorial](https://github.com/RutgersMobileApplicationDevelopment/F2018-HackNight-Backend/tree/master/Week1) <br />
+[Week 2 Backend Tutorial](https://github.com/RutgersMobileApplicationDevelopment/F2018-HackNight-Backend/tree/master/Week2) <br />
 * Follow the instructions in the Readme
 * Flask Documentation if you get stuck:
   - [http://flask.pocoo.org/docs/1.0/](http://flask.pocoo.org/docs/1.0/)
