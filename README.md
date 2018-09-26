@@ -12,14 +12,14 @@ Android Studio Download: https://developer.android.com/studio/
 # Table of Contents:
 ### [Week 1](#week-1-1)
 * Recap of Week 1:
- - iOS: Build a Magic-8 App
- - Android: Hello World App
- - Backend: Introduction to flask
+	* iOS: Build a Magic-8 App
+	* Android: Hello World App
+	* Backend: Introduction to flask
  
 ### [Week 2](#week-2-1)
 * Recap of Week 2:
- - iOS + Android: Build a simple tip calculator
- - Backend: 
+	* iOS + Android: Build a simple tip calculator
+	* Backend: 
 <br /> <br /> <br /> <br /> <br />
 
 
