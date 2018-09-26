@@ -1,4 +1,5 @@
-# Hack Night
+![RUMAD Banner](https://rumad.club/assets/images/cover.png)
+# RUMAD Hack Nights
 This is an archive of all the things we have gone over in previous hack nights!
 
 ### Required Downloads:
@@ -6,6 +7,7 @@ This is an archive of all the things we have gone over in previous hack nights!
 XCode Download: https://developer.apple.com/xcode/
  #### Android:
 Android Studio Download: https://developer.android.com/studio/
+<br /> <br /> <br />
 
 
 ## Week 1:
@@ -27,6 +29,3 @@ Android Studio Download: https://developer.android.com/studio/
 * Follow the instructions in the Readme
 * Flask Documentation if you get stuck:
   - http://flask.pocoo.org/docs/1.0/
-
-
-
