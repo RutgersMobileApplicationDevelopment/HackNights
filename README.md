@@ -14,7 +14,9 @@ Android Studio Download: https://developer.android.com/studio/
 
 #### iOS Track: 
 [Week 1 iOS Tutorial](www.makeschool.com/academy) <br /> 
-* Create an account, click on the iOS Apps track, and follow the "Learn how to build apps: Magic 8-Ball" tutorial
+1. Create an account
+2. Click on the iOS Apps track
+3. Follow the "Learn how to build apps: Magic 8-Ball" tutorial
 * iOS documentation if you get stuck:
   - https://developer.apple.com/documentation/
  
@@ -25,7 +27,33 @@ Android Studio Download: https://developer.android.com/studio/
   - https://developer.android.com/
 
 #### Backend Track:
-[Week 1 Backend Tutorual] (https://github.com/RutgersMobileApplicationDevelopment/F2018-HackNight-Backend/tree/master/Week1) <br />
+[Week 1 Backend Tutorial](https://github.com/RutgersMobileApplicationDevelopment/F2018-HackNight-Backend/tree/master/Week1) <br />
 * Follow the instructions in the Readme
 * Flask Documentation if you get stuck:
   - http://flask.pocoo.org/docs/1.0/
+  
+  <br /> <br /> <br />
+
+## Week 2:
+
+#### iOS Track: 
+[Week 2 iOS Tutorial](www.makeschool.com/academy) <br /> 
+1. Create an account, if you haven't already
+2. Click on the iOS Apps track
+3. Follow the "Build a Tip Calculator in Swift 4" tutorial <br /> <br />
+* iOS documentation if you get stuck:
+  - https://developer.apple.com/documentation/
+ 
+#### Android Track: 
+[Week 2 Android Tutorial](https://github.com/RutgersMobileApplicationDevelopment/F2018-HackNight-Android/tree/master/(02)%20Tip%20Calculator) <br />
+* Follow the instructions in the Readme
+* Android documentation if you get stuck:
+  - https://developer.android.com/
+
+#### Backend Track:
+[Week 2 Backend Tutorial](https://github.com/RutgersMobileApplicationDevelopment/F2018-HackNight-Backend/tree/master/Week1) <br />
+* Follow the instructions in the Readme
+* Flask Documentation if you get stuck:
+  - http://flask.pocoo.org/docs/1.0/
+  
+  <br /> <br /> <br />
