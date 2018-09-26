@@ -1,5 +1,5 @@
 ![RUMAD Banner](https://rumad.club/assets/images/cover.png)
-# RUMAD Hack Nights
+# **RUMAD Hack Nights**
 This is an archive of all the things we have gone over in previous hack nights!
 
 ### Required Downloads:
@@ -9,7 +9,7 @@ XCode Download: https://developer.apple.com/xcode/
 Android Studio Download: https://developer.android.com/studio/
 <br /> <br /> <br />
 
-# Table of Contents:
+# **Table of Contents:**
 ### [Week 1](#week-1-1)
 * Recap of Week 1:
 	* iOS: Build a Magic-8 App
