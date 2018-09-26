@@ -18,19 +18,19 @@ Android Studio Download: https://developer.android.com/studio/
 2. Click on the iOS Apps track
 3. Follow the "Learn how to build apps: Magic 8-Ball" tutorial
 * iOS documentation if you get stuck:
-  - https://developer.apple.com/documentation/
+  - [https://developer.apple.com/documentation/](https://developer.apple.com/documentation/)
  
 #### Android Track: 
 [Week 1 Android Tutorial](https://github.com/RutgersMobileApplicationDevelopment/F2018-HackNight-Android/tree/master/(01)%20Hello%20World) <br />
 * Follow the instructions in the Readme
 * Android documentation if you get stuck:
-  - https://developer.android.com/
+  - [https://developer.android.com/](https://developer.android.com/)
 
 #### Backend Track:
 [Week 1 Backend Tutorial](https://github.com/RutgersMobileApplicationDevelopment/F2018-HackNight-Backend/tree/master/Week1) <br />
 * Follow the instructions in the Readme
 * Flask Documentation if you get stuck:
-  - http://flask.pocoo.org/docs/1.0/
+  - [http://flask.pocoo.org/docs/1.0/](http://flask.pocoo.org/docs/1.0/)
   
   <br /> <br /> <br />
 
@@ -42,18 +42,18 @@ Android Studio Download: https://developer.android.com/studio/
 2. Click on the iOS Apps track
 3. Follow the "Build a Tip Calculator in Swift 4" tutorial <br /> <br />
 * iOS documentation if you get stuck:
-  - https://developer.apple.com/documentation/
+  - [https://developer.apple.com/documentation/](https://developer.apple.com/documentation/)
  
 #### Android Track: 
 [Week 2 Android Tutorial](https://github.com/RutgersMobileApplicationDevelopment/F2018-HackNight-Android/tree/master/(02)%20Tip%20Calculator) <br />
 * Follow the instructions in the Readme
 * Android documentation if you get stuck:
-  - https://developer.android.com/
+  - [https://developer.android.com/](https://developer.android.com/)
 
 #### Backend Track:
 [Week 2 Backend Tutorial](https://github.com/RutgersMobileApplicationDevelopment/F2018-HackNight-Backend/tree/master/Week1) <br />
 * Follow the instructions in the Readme
 * Flask Documentation if you get stuck:
-  - http://flask.pocoo.org/docs/1.0/
+  - [http://flask.pocoo.org/docs/1.0/](http://flask.pocoo.org/docs/1.0/)
   
   <br /> <br /> <br />
