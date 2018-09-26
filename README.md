@@ -10,8 +10,8 @@ Android Studio Download: https://developer.android.com/studio/
 <br /> <br /> <br />
 
 ## Table of Contents:
-### [Week 1](#Week-1)
-### [Week 2](#Week-2)
+### [Week 1](#week-1-1)
+### [Week 2](#week-2-1)
 
 
 ## Week 1
