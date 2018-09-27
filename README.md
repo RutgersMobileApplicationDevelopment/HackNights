@@ -27,6 +27,7 @@ Android Studio Download: https://developer.android.com/studio/
 
 #### iOS Track: 
 [Week 1 iOS Tutorial](www.makeschool.com/academy) <br /> 
+www.makeschool.com/academy
 1. Create an account
 2. Click on the iOS Apps track
 3. Follow the "Learn how to build apps: Magic 8-Ball" tutorial
@@ -51,6 +52,7 @@ Android Studio Download: https://developer.android.com/studio/
 
 #### iOS Track: 
 [Week 2 iOS Tutorial](www.makeschool.com/academy) <br /> 
+www.makeschool.com/academy
 1. Create an account, if you haven't already
 2. Click on the iOS Apps track
 3. Follow the "Build a Tip Calculator in Swift 4" tutorial <br /> <br />
