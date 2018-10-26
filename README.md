@@ -72,3 +72,29 @@ www.makeschool.com/academy
   - [http://flask.pocoo.org/docs/1.0/](http://flask.pocoo.org/docs/1.0/)
   
   <br /> <br /> <br />
+  
+## Week 3
+
+#### iOS Track: 
+[Week 3 iOS Tutorial](www.makeschool.com/academy) <br /> 
+www.makeschool.com/academy
+1. Create an account, if you haven't already
+2. Click on the iOS Apps track
+3. Follow the "LEARN HOW TO BUILD MAKE SCHOOL NOTES IN SWIFT 4" tutorial <br /> <br />
+* iOS documentation if you get stuck:
+  - [https://developer.apple.com/documentation/](https://developer.apple.com/documentation/)
+ 
+#### Android Track: 
+[Week 2 Android Tutorial](https://github.com/RutgersMobileApplicationDevelopment/F2018-HackNight-Android/tree/master/(02)%20Tip%20Calculator) <br />
+* Follow the instructions in the Readme
+* Android documentation if you get stuck:
+  - [https://developer.android.com/](https://developer.android.com/)
+
+#### Backend Track:
+[Week 2 Backend Tutorial](https://github.com/RutgersMobileApplicationDevelopment/F2018-HackNight-Backend/tree/master/Week2) <br />
+* Follow the instructions in the Readme
+* Flask Documentation if you get stuck:
+  - [http://flask.pocoo.org/docs/1.0/](http://flask.pocoo.org/docs/1.0/)
+  
+  <br /> <br /> <br />
+  
