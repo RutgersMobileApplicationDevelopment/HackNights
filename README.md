@@ -20,6 +20,13 @@ Android Studio Download: https://developer.android.com/studio/
 * Recap of Week 2:
 	* iOS + Android: Build a simple tip calculator
 	* Backend: Various HTTP methods
+	
+### [Week 3](#week-3-1)
+* Recap of Week 3:
+	* iOS: Build a simple notes app, and learn how TableViews work in Swift!
+	* Android: 
+	* Backend: Properly designing a RESTful service
+
 <br /> <br /> <br /> <br /> <br />
 
 
